@@ -1,0 +1,32 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+.vscode/
+.vs/
+*.user
+*.suo
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Package Files
+packages/
+*.nupkg
+project.lock.json
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Rider IDE Files
+.idea/
+
+# Other Auto-Generated Files
+*.g.*
+*.generated.*
