@@ -52,6 +52,7 @@ function resolveCollision(par1, par2) {
         par1.velY = vFinal1.y
         par2.velX = vFinal2.x
         par2.velY = vFinal2.y
+        console.log('bonk')
     }
 }
 

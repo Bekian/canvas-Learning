@@ -28,4 +28,9 @@ public class HomeController(ILogger<HomeController> logger) : Controller
     {
         return View();
     }
+
+    public IActionResult Mario()
+    {
+        return View();
+    }
 }
